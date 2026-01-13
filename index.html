@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap">
+    <link rel="stylesheet" href="style.css">
+    <title>Helena - 2 Convert Money</title>
+
+</head>
+
+<body>
+    <img class="logo" src="./assets/logo.png" alt="logo-convert-moeda">
+
+    <button class="toggle-theme">🌙 Modo escuro</button>
+
+    <main>
+
+        <label>
+            Converter <b>de</b>
+            <select class="from-currency">
+                <option value="real">Real</option>
+                <option value="dolar">Dólar</option>
+                <option value="euro">Euro</option>
+                <option value="libra">Libra</option>
+                <option value="bitcoin">Bitcoin</option>
+            </select>
+
+        </label>
+
+        <label>
+            Converter <b>para</b>
+            <select class="to-currency">
+                <option value="real">Real</option>
+                <option value="dolar">Dólar</option>
+                <option value="euro">Euro</option>
+                <option value="libra">Libra</option>
+                <option value="bitcoin">Bitcoin</option>
+            </select>
+
+        </label>
+
+        <label>
+            Valor
+            <input class="input-currency" placeholder="Gigite o Valor">
+        </label>
+
+        <button class="convert-button">Converter</button>
+
+        <section>
+            <div class="currency-box" data-currency="real">
+                <img src="./assets/real.png">
+                <p class="currency">Real</p>
+                <p class="currency-value">R$ 0,00</p>
+            </div>
+
+            <div class="currency-box" data-currency="dolar">
+                <img src="./assets/dolar.png">
+                <p class="currency">Dólar</p>
+                <p class="currency-value">US$ 0,00</p>
+            </div>
+
+            <div class="currency-box" data-currency="euro">
+                <img src="./assets/euro.png">
+                <p class="currency">Euro</p>
+                <p class="currency-value">€ 0,00</p>
+            </div>
+
+            <div class="currency-box" data-currency="libra">
+                <img src="./assets/libra 1.png">
+                <p class="currency">Libra</p>
+                <p class="currency-value">LBP 0,00</p>
+            </div>
+
+            <div class="currency-box" data-currency="bitcoin">
+                <img src="./assets/bitcoin .png">
+                <p class="currency">Bitcoin</p>
+                <p class="currency-value">₿ 0,000000</p>
+            </div>
+
+
+        </section>
+
+    </main>
+</body>
+<script src="./script.js"></script>
+
+</html>
