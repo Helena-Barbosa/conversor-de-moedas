@@ -14,15 +14,20 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
 }
 
 .logo {
-  width: 200px;
-  max-width: 80%;
-  margin: 20px auto;
-
+  width: 140px;
+  
+  margin: 12px auto;
+  
+  display: block;
 }
+
+
+
+
+
 
 main {
   width: 100%;
@@ -32,8 +37,8 @@ main {
   margin-bottom: 40px;
   padding: 40px 24px 23px;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25);
-
 }
+
 
 
 label {
@@ -83,9 +88,6 @@ button:active {
   transform: scale(0.98);
 }
 
-
-
-
 section {
   margin-top: 30px;
   padding: 15px;
@@ -94,8 +96,10 @@ section {
   display: flex;
   flex-direction: column;
   gap: 15px;
-
 }
+
+
+
 
 .currency-box {
   display: flex;
@@ -106,6 +110,8 @@ section {
 
 .currency-box img {
   width: 40px;
+  height: auto;
+  display: block;
 
 }
 
@@ -162,6 +168,18 @@ body.dark .currency-value-to-convert {
   box-shadow: none;
 }
 
+.currency-box.hidden {
+  display: none;
+}
+
+.exchange-rate {
+  margin-top: 12px;
+  font-size: 13px;
+  color: #666;
+  text-align: center;
+}
+
+
 
 /*  DESKTOP TELAS maiores*/
 @media (min-width: 768px) {
@@ -178,7 +196,9 @@ body.dark .currency-value-to-convert {
   }
 
   .logo {
-    width: 150px;
+    width: 120px;
+    margin: 10px auto;
+
   }
 
   button {
@@ -199,7 +219,7 @@ body.dark .currency-value-to-convert {
 }
 
 
-/* tablete ajuste exato obs: o layout acima atend eo tablete tambem de acordo esse abaixo apenas mais refinado*/
+/* tablete ajuste exato obs: o layout acima atende eo tablete também de acordo esse abaixo apenas mais refinado*/
 
 @media (min-width: 481px) and (max-width: 767px) {
   main {
