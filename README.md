@@ -38,6 +38,10 @@ https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
 
 ---
 
+## 🎥 Demonstração do projeto
+
+[▶️ Clique aqui para assistir ao vídeo](video/demo.mp4)
+
 ## 👩‍💻 Autora
 
 Helena Barbosa
