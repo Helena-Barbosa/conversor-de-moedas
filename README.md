@@ -40,7 +40,7 @@ https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
 
 ## 🎥 Demonstração do projeto
 
-[▶️ Clique aqui para assistir ao vídeo](Convert Money.mp4)
+[▶️ Clique aqui para assistir ao vídeo](convert-money.mp4)
 
 ## 👩‍💻 Autora
 
