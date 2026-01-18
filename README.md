@@ -40,7 +40,7 @@ https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
 
 ## 🎥 Demonstração do projeto
 
-[▶️ Clique aqui para assistir ao vídeo](https://raw.github.com/Helena-Barbosa/conversor-de-moedas/raw/refs/heads/main/Convert-Money.mp4)
+[▶️ Clique aqui para assistir ao vídeo](https://raw.githubusercontent.com/Helena-Barbosa/conversor-de-moedas/main/Convert-Money.mp4)
 
 ## 👩‍💻 Autora
 
