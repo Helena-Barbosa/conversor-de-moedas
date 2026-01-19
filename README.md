@@ -40,8 +40,8 @@ https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
 
 ## 🎥 Demonstração do projeto
 
-[▶️ Clique aqui para assistir ao vídeo](https://github.com/Helena-Barbosa/conversor-de-moedas/blob/main/assets/convert-money.mp4)
+[▶️ Clique aqui para assistir ao vídeo](https://github.com/Helena-Barbosa/conversor-de-moedas/releases/download/v1.0.0/convert-money.mp4)
 
 ## 👩‍💻 Autora
 
-Helena Barbosa
+Helena Barbosa🐬
