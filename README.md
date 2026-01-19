@@ -1,47 +1,36 @@
 # 💱 Conversor de Moedas
 
-Projeto de Conversor de Moedas desenvolvido com HTML, CSS e JavaScript.
-Permite converter valores entre Real, Dólar, Euro, Libra e Bitcoin usando cotação atual.
+Aplicação web para conversão de moedas em tempo real, desenvolvida com foco em boas práticas de HTML, CSS e JavaScript.
 
-🌐 Projeto publicado no GitHub Pages:
-https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+![Demonstração do projeto](./assets/demo.gif)
 
 ---
 
 ## 🚀 Funcionalidades
-
-- Conversão entre moedas
-- Real (BRL)
-- Dólar (USD)
-- Euro (EUR)
-- Libra (GBP)
-- Bitcoin (BTC)
+- Conversão entre Real, Dólar, Euro, Libra e Bitcoin
+- Atualização automática das taxas de câmbio
+- Interface responsiva (mobile, tablet e desktop)
 - Modo claro e modo escuro
-- Layout responsivo
+- Exibição apenas das moedas selecionadas
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
+## 🛠️ Tecnologias utilizadas
 - HTML5
-- CSS3
-- JavaScript
-- API de câmbio
+- CSS3 (Flexbox, Media Queries)
+- JavaScript (ES6+)
+- API de câmbio (ExchangeRate API)
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🌐 Acesse o projeto
+🔗 **GitHub Pages:**  
+https://helena-barbosa.github.io/conversor-de-moedas/
 
-- index.html
-- style.css
-- script.js
+🔗 **Repositório:**  
+https://github.com/Helena-Barbosa/conversor-de-moedas
 
 ---
-
-## 🎥 Demonstração do projeto
-
-[▶️ Clique aqui para assistir ao vídeo](./assets/demo.gif)
 
 ## 👩‍💻 Autora
-
 Helena Barbosa🐬

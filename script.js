@@ -124,3 +124,4 @@ button.addEventListener("click", convert);
 
 
 updateVisibleCurrencies(fromSelect.value, toSelect.value);
+
